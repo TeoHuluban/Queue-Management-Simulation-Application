@@ -1,0 +1,157 @@
+
+
+Time: 0
+Waiting clients: (1; 12; 3); (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 1
+Waiting clients: (1; 12; 3); (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 2
+Waiting clients: (1; 12; 3); (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 3
+Waiting clients: (1; 12; 3); (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 4
+Waiting clients: (1; 12; 3); (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 5
+Waiting clients: (1; 12; 3); (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 6
+Waiting clients: (1; 12; 3); (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 7
+Waiting clients: (1; 12; 3); (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 8
+Waiting clients: (1; 12; 3); (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 9
+Waiting clients: (1; 12; 3); (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 10
+Waiting clients: (1; 12; 3); (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 11
+Waiting clients: (1; 12; 3); (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 12
+Waiting clients: (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: (1; 12; 3); 
+Queue2: closed
+
+Time: 13
+Waiting clients: (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: (1; 12; 2); 
+Queue2: closed
+
+Time: 14
+Waiting clients: (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: (1; 12; 1); 
+Queue2: closed
+
+Time: 15
+Waiting clients: (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 16
+Waiting clients: (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 17
+Waiting clients: (4; 18; 2); (2; 20; 3); (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 18
+Waiting clients: (2; 20; 3); (3; 26; 2); 
+Queue1: (4; 18; 2); 
+Queue2: closed
+
+Time: 19
+Waiting clients: (2; 20; 3); (3; 26; 2); 
+Queue1: (4; 18; 1); 
+Queue2: closed
+
+Time: 20
+Waiting clients: (3; 26; 2); 
+Queue1: closed
+Queue2: (2; 20; 3); 
+
+Time: 21
+Waiting clients: (3; 26; 2); 
+Queue1: closed
+Queue2: (2; 20; 2); 
+
+Time: 22
+Waiting clients: (3; 26; 2); 
+Queue1: closed
+Queue2: (2; 20; 1); 
+
+Time: 23
+Waiting clients: (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 24
+Waiting clients: (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 25
+Waiting clients: (3; 26; 2); 
+Queue1: closed
+Queue2: closed
+
+Time: 26
+Waiting clients: 
+Queue1: (3; 26; 2); 
+Queue2: closed
+
+Time: 27
+Waiting clients: 
+Queue1: (3; 26; 1); 
+Queue2: closed
+
+Time: 28
+Waiting clients: 
+Queue1: closed
+Queue2: closed
+
+Time: 29
+Waiting clients: 
+Queue1: closed
+Queue2: closed
+
+Average waiting time: 0,00
+
+Average service time: 2,50
+
+Peek hour: 20
