@@ -1,2 +1,2 @@
 # Queue-Management-Simulation-Application
-Application that simulates clients waiting in queues for a service, optimizing  dispatch based on either the shortest queue or the shortest waiting time. 
+Application that simulates clients waiting in queues for a service, optimizing  dispatch based on either the shortest queue or the shortest waiting time. The system calculates average waiting and service times, as well as peak hours. It includes a graphical interface for user input, real-time queue visualization, and input validation to ensure correct simulation parameters.
